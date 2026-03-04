@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- AJOUTEZ ICI LES 3 LIGNES -->
-<meta name="title" content="Candidature Directeur Commercial Serax">
-<meta name="apple-mobile-web-app-title" content="TR Candidature">
-<meta property="og:title" content="Candidature Directeur Commercial Serax">
-<title>Vision Stratégique France — Terence Richard</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<!-- reste du code... -->
 </head>
 
 <meta charset="UTF-8">
